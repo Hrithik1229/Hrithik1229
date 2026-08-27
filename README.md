@@ -123,15 +123,20 @@ Native Android development in **Kotlin**, from RecyclerView-driven list views to
 ---
 
 <div align="center"><sub>04 &nbsp;——&nbsp; GITHUB STATS</sub></div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik1229&show_icons=true&theme=transparent&title_color=3399ff&text_color=8b949e&icon_color=3399ff&hide_border=true&bg_color=00000000&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik1229&layout=compact&theme=transparent&title_color=3399ff&text_color=8b949e&hide_border=true&bg_color=00000000&include_all_commits=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik1229&amp;show_icons=true&amp;theme=transparent&amp;title_color=3399ff&amp;text_color=8b949e&amp;icon_color=3399ff&amp;hide_border=true&amp;bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik1229&amp;layout=compact&amp;theme=transparent&amp;title_color=3399ff&amp;text_color=8b949e&amp;hide_border=true&amp;bg_color=00000000" width="40%" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hrithik1229&theme=transparent&hide_border=true&background=00000000&ring=3399ff&fire=70A5FD&currStreakLabel=3399ff" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik1229&amp;theme=transparent&amp;currStreakNum=3399ff&amp;fire=70A5FD&amp;sideLabels=8b949e&amp;stroke=21262d&amp;hide_border=true" width="90%" />
 </div>
+
 <br/>
 
 ---
