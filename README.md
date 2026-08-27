@@ -66,13 +66,6 @@ Building concurrent, real-time web platforms with **React, Node.js, and PostgreS
 Native Android development in **Kotlin**, from RecyclerView-driven list views to validated registration forms, built through structured, task-based workflows.
 
 </td>
-<td width="50%" valign="top">
-
-**Security & Networking Research**
-
-Seminar work on **Adaptive Zero Trust Manager (AZTM)** architectures for IoT in 6G networks, alongside strong foundations in compiler design, OS internals, and theory of computation.
-
-</td>
 </tr>
 </table>
 
