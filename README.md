@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3399ff,100:70A5FD&height=250&section=header&text=Hrithik%20K&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Mobile&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&pause=1200&color=3399FF&center=true&vCenter=true&width=560&lines=Computer+Science+%26+Design+Student;AI%2FML+%2F+Financial+Data+Analytics;Full-Stack+%26+Android+Development;Competitive+Programming+%2F+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&pause=1200&color=3399FF&center=true&vCenter=true&width=560&lines=Computer+Science+%26+Engineering+Student;AI%2FML+%2F++Java+%2F+Python+%2F+HTML;Full-Stack+%26+Android+Development" alt="Typing SVG" />
 
 <br/>
 
@@ -73,54 +73,7 @@ Native Android development in **Kotlin**, from RecyclerView-driven list views to
 
 ---
 
-<div align="center"><sub>03 &nbsp;——&nbsp; FEATURED PROJECTS</sub></div>
-
-<br/>
-
-**`01` &nbsp; AI-Based Personalized Financial Advisor — Final-Year Capstone**
-
-A multi-agent financial advisory system built with **LangGraph/CrewAI**, running local LLM inference through **Ollama**. Four specialized agents — Profile & Expense Analyzer, Real-Time Market Strategist, Goal-Oriented Credit Advisor, and Tax & Anomaly Detector — collaborate to deliver personalized financial insight, backed by a **FastAPI + PostgreSQL** backend, a **Flutter** frontend, and WebSocket-based real-time alerts.
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3399ff&labelColor=161b22)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=3399ff&labelColor=161b22)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=3399ff&labelColor=161b22)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=3399ff&labelColor=161b22)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logoColor=3399ff&labelColor=161b22)
-
-<br/>
-
-**`02` &nbsp; RailSeat — Interactive Railway Booking Platform**
-
-A full-stack railway reservation system built with **React 18, TypeScript, Node.js, Express, PostgreSQL, and Sequelize**. Uses **TanStack Query**, **shadcn/ui**, and **Tailwind CSS** for a responsive interface, with real-time seat state management designed to prevent booking conflicts.
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=3399ff&labelColor=161b22)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3399ff&labelColor=161b22)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3399ff&labelColor=161b22)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=3399ff&labelColor=161b22)
-
-<br/>
-
-**`03` &nbsp; Android Utility Apps — Kotlin**
-
-Structured, task-based Android builds: **FetchDisplayApp**, a RecyclerView-driven student list viewer, and **SimpleFormApp**, a registration form with input validation — both developed as part of a step-by-step native Android learning workflow.
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=3399ff&labelColor=161b22)
-![Android](https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=3399ff&labelColor=161b22)
-
-<br/>
-
-**`04` &nbsp; Adaptive Zero Trust Manager (AZTM) — Research Seminar**
-
-Seminar presentations built around an IEEE Networking Letters paper proposing an Adaptive Zero Trust Manager for IoT security in 6G networks, delivered across two presentation decks.
-
-![Security](https://img.shields.io/badge/Zero_Trust-0d1117?style=flat-square&logoColor=3399ff&labelColor=161b22)
-![Networking](https://img.shields.io/badge/6G_%2F_IoT-0d1117?style=flat-square&logoColor=3399ff&labelColor=161b22)
-
-<br/>
-
----
-
-<div align="center"><sub>04 &nbsp;——&nbsp; TECH STACK</sub></div>
+<div align="center"><sub>03 &nbsp;——&nbsp; TECH STACK</sub></div>
 
 <br/>
 
@@ -169,7 +122,7 @@ Seminar presentations built around an IEEE Networking Letters paper proposing an
 
 ---
 
-<div align="center"><sub>05 &nbsp;——&nbsp; GITHUB STATS</sub></div>
+<div align="center"><sub>04 &nbsp;——&nbsp; GITHUB STATS</sub></div>
 
 <br/>
 
