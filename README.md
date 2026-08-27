@@ -127,14 +127,9 @@ Native Android development in **Kotlin**, from RecyclerView-driven list views to
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik1229&show_icons=true&theme=transparent&title_color=3399ff&text_color=8b949e&icon_color=3399ff&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik1229&layout=compact&theme=transparent&title_color=3399ff&text_color=8b949e&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="40%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hrithik1229&theme=transparent&hide_border=true&background=00000000&ring=3399ff&fire=70A5FD&currStreakLabel=3399ff" width="90%" />
+  ![](https://github-readme-stats.shion.dev/api?username=Hrithik1229&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://streak-stats.demolab.com/?user=Hrithik1229&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hrithik1229&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <br/>
