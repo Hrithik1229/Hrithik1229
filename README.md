@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3399ff&labelColor=161b22)](https://www.linkedin.com/in/hrithik-k-9a1331352/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=3399ff&labelColor=161b22)](mailto:hrithik2538@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=3399ff&labelColor=161b22)](https://www.instagram.com/__hrithi_k___/?hl=en)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=3399ff&labelColor=161b22)](https://www.facebook.com/hrithik/)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=3399ff&labelColor=161b22)](https://www.facebook.com/share/14rKVGrSiM5/)
 
 </div>
 
