@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3399ff,100:70A5FD&height=250&section=header&text=Hrithik%20K&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20Mobile&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&pause=1200&color=3399FF&center=true&vCenter=true&width=560&lines=Computer+Science+%26+Engineering+Student;AI%2FML+%2F++Java+%2F+Python+%2F+HTML;Full-Stack+%26+Android+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&pause=1200&color=3399FF&center=true&vCenter=true&width=560&lines=Computer+Science+%26+Engineering+Student;AI%2FML+%2F+Java+%2F+Python+%2F+HTML;Full-Stack+%26+Mobile+Development" alt="Typing SVG" />
 
 <br/>
 
@@ -27,11 +27,11 @@
 
 <br/>
 
-- 🔭 Currently building an **AI-Based Personalized Financial Advisor** — a multi-agent capstone system
-- 👯 Looking to collaborate on **AI/ML, Flutter, and Open Source** projects
-- 🌱 Currently learning **Flutter, Machine Learning, and Financial Data Analytics**
-- 💬 Ask me about **C, C++, Java, Python, Flutter, and AI/ML projects**
-- ⚡ Fun fact: I enjoy turning real-world problems into software solutions and continuously exploring new technologies
+- 🔭 Currently building an **AI-Based Personalized Financial Advisor** — an intelligent financial analysis system.
+- 👯 Looking to collaborate on **AI/ML, Flutter, and Open Source** projects.
+- 🌱 Currently learning **Flutter, Machine Learning, and Financial Data Analytics**.
+- 💬 Ask me about **C, C++, Java, Python, Flutter, and AI/ML projects**.
+- ⚡ Fun fact: I enjoy turning real-world problems into software solutions and continuously exploring new technologies.
 
 <br/>
 
@@ -45,25 +45,32 @@
 <tr>
 <td width="50%" valign="top">
 
-**AI/ML & Multi-Agent Systems**
+**AI/ML & Intelligent Systems**
 
-Designing agentic architectures with **LangGraph / CrewAI** and local LLM inference via **Ollama**. Building specialized agent pipelines for real-time analysis, alerting, and decision support.
+Exploring machine learning and AI-based applications using **Python and PyTorch**. Interested in building intelligent systems that analyze data, automate tasks, and provide useful insights.
 
 </td>
 <td width="50%" valign="top">
 
 **Full-Stack & Real-Time Systems**
 
-Building concurrent, real-time web platforms with **React, Node.js, and PostgreSQL** — including live state synchronization and race-condition-safe booking flows via **Socket.io**.
+Building web applications using **React, Node.js, and PostgreSQL**, focusing on responsive interfaces, backend development, database management, and real-time functionality.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Mobile & Android Development**
+**Mobile Application Development**
 
-Native Android development in **Kotlin**, from RecyclerView-driven list views to validated registration forms, built through structured, task-based workflows.
+Developing cross-platform mobile applications using **Flutter**, focusing on user-friendly interfaces, application functionality, and practical problem-solving.
+
+</td>
+<td width="50%" valign="top">
+
+**Problem Solving & Software Development**
+
+Practicing programming and problem-solving using **C, C++, Java, and Python**, with an interest in developing efficient and maintainable software solutions.
 
 </td>
 </tr>
@@ -87,10 +94,10 @@ Native Android development in **Kotlin**, from RecyclerView-driven list views to
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter&theme=dark" />
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
@@ -103,9 +110,7 @@ Native Android development in **Kotlin**, from RecyclerView-driven list views to
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-<img src="https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logoColor=3399ff" />
-<img src="https://img.shields.io/badge/Ollama-161b22?style=flat-square&logoColor=3399ff" />
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
@@ -123,24 +128,37 @@ Native Android development in **Kotlin**, from RecyclerView-driven list views to
 ---
 
 <div align="center"><sub>04 &nbsp;——&nbsp; GITHUB STATS</sub></div>
-<br/>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hrithik1229&show_icons=true&theme=transparent&title_color=3399ff&text_color=8b949e&icon_color=3399ff&hide_border=true&bg_color=00000000" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik1229&layout=compact&theme=transparent&title_color=3399ff&text_color=8b949e&hide_border=true&bg_color=00000000" width="40%" /> </div>
 
 <br/>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik1229&theme=transparent&currStreakNum=3399ff&fire=70A5FD&sideLabels=8b949e&stroke=21262d&hide_border=true" width="90%" /> </div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hrithik1229&show_icons=true&theme=transparent&title_color=3399ff&text_color=8b949e&icon_color=3399ff&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik1229&layout=compact&theme=transparent&title_color=3399ff&text_color=8b949e&hide_border=true" width="40%" />
+
+</div>
 
 <br/>
 
- 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik1229&theme=transparent&currStreakNum=3399ff&fire=70A5FD&sideLabels=8b949e&stroke=21262d&hide_border=true" width="90%" />
+
+</div>
+
+<br/>
+
 <div align="center">
   <sub><i>"Turning real-world problems into software solutions, one project at a time."</i></sub>
 </div>
+
 <br/>
+
 <div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=Hrithik1229&icon=0&color=3399ff" />
   </a>
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3399ff,100:0d1117&height=100&section=footer&reversal=true" />
