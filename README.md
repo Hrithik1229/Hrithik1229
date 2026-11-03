@@ -132,7 +132,7 @@ Native Android development in **Kotlin**, from RecyclerView-driven list views to
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrithik1229&theme=transparent&currStreakNum=3399ff&fire=70A5FD&sideLabels=8b949e&stroke=21262d&hide_border=true" width="90%" /> </div>
 
 <br/>
----
+
  
 <div align="center">
   <sub><i>"Turning real-world problems into software solutions, one project at a time."</i></sub>
